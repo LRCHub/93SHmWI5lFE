@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "清水翔太『Side Dish』Lyric Video / Shota Shimizu “Side Dish” Lyric Video",
+  "base_artist": "清水 翔太",
+  "createdAt": "2025-12-06T13:15:12.134322Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Because of you",
+      "artist": "清水 翔太",
+      "has_synced": false,
+      "path": "select/pl_01_Because_of_you_清水_翔太.txt"
+    }
+  ]
+}
