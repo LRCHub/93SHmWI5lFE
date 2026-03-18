@@ -1,16 +1,65 @@
 {
   "version": 1,
-  "base_track": "清水翔太『Side Dish』Lyric Video / Shota Shimizu “Side Dish” Lyric Video",
-  "base_artist": "清水 翔太",
-  "createdAt": "2025-12-06T13:15:12.134322Z",
+  "base_track": "Side Dish",
+  "base_artist": "清水　翔太",
+  "createdAt": "2026-03-18T19:56:59.259292Z",
   "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Side Dish",
+      "artist": "Psapp",
+      "has_synced": false,
+      "path": "select/01_Side_Dish_Psapp.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Side Dish",
+      "artist": "The Robert Cray Band",
+      "has_synced": false,
+      "path": "select/02_Side_Dish_The_Robert_Cray_Band.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Side Dish",
+      "artist": "Cray, Robert Band, The",
+      "has_synced": false,
+      "path": "select/03_Side_Dish_Cray,_Robert_Band,_The.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Side Dish",
+      "artist": "Shota Shimizu",
+      "has_synced": true,
+      "path": "select/04_Side_Dish_Shota_Shimizu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Side Dish",
+      "artist": "Psapp",
+      "has_synced": false,
+      "path": "select/05_Side_Dish_Psapp.txt"
+    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "Because of you",
+      "title": "Side Dish",
       "artist": "清水 翔太",
       "has_synced": false,
-      "path": "select/pl_01_Because_of_you_清水_翔太.txt"
+      "path": "select/pl_01_Side_Dish_清水_翔太.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Side Dish",
+      "artist": "清水　翔太",
+      "has_synced": false,
+      "path": "select/localdb_01_Side_Dish_清水_翔太.txt",
+      "repo_name": "93SHmWI5lFE"
     }
   ]
 }
