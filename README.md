@@ -1,4 +1,4 @@
-# 清水 翔太 – 清水翔太『Side Dish』Lyric Video / Shota Shimizu “Side Dish” Lyric Video
+# 清水　翔太 – Side Dish
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
